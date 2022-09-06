@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I work on sonic and embodied interaction using model-based, neural sound and motion synthesis. 
+
+🔭 Currently I am looking into deploying those by using academic/industrial MLOps practices.
+
+📫 You can get more info about me & my work at https://cerkut.github.io/
+
 <!--
 **cerkut/cerkut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
