@@ -2,9 +2,11 @@
 
 I work on sonic and embodied interaction using model-based, neural sound and motion synthesis. 
 
-🔭 Currently I am looking into deploying those by using academic/industrial MLOps practices.
+🔭 My mission is to bridge X-verse and AI through academic/industrial MLOps practices.
 
 📫 You can get more info about me & my work at https://cerkut.github.io/
+
+- ⚡ Fun fact: *1997* is the year of my first paper on Neural Audio Synthesis with Artificial Neural Networks.
 
 <!--
 **cerkut/cerkut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
