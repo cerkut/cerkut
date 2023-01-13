@@ -6,7 +6,7 @@ I work on sonic and embodied interaction using model-based, neural sound and mot
 
 📫 You can get more info about me & my work at https://cerkut.github.io/
 
-- ⚡ Fun fact: *1997* is the year of my first paper on Neural Audio Synthesis with Artificial Neural Networks.
+- ⚡ Fun fact: [*1997* is the year of my first paper on Neural Audio with Artificial Neural Networks](https://www.researchgate.net/publication/2543549_Calibration_Of_Physical_Models_Using_Artificial_Neural_Networks_With_Application_To_Plucked_String_Instruments/citations).
 
 <!--
 **cerkut/cerkut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
