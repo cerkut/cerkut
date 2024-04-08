@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I work on sonic and embodied interaction using model-based, neural sound and motion synthesis. 
+I am extending torward Edge AI, based on my work on sonic and embodied interaction using neural sound and motion synthesis. 
 
 🔭 My mission is to bridge X-verse and AI through academic/industrial MLOps practices.
 
