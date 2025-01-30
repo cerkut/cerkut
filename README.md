@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am taking challenges torwards Edge AI, Quantum Computing (QC), Quantum Machine Learning (QML), based on my work on sonic and embodied interaction using neural sound and motion synthesis. 
+I am taking challenges torwards [Edge AI](https://tinyml.seas.harvard.edu/), [Active and Perceptual Inference](https://www.activeinference.institute/) Quantum Computing (QC), Quantum Machine Learning (QML), based on my work on sonic and embodied interaction using neural sound and motion synthesis. 
 
 🔭 My mission is to bridge X-verse, AI, and QC/QML through academic/industrial [ML](https://github.com/chiphuyen/dmls-book) / [AI engineering](https://github.com/chiphuyen/aie-book) practices.
 
