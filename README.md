@@ -6,12 +6,15 @@ I am taking challenges torwards [Edge AI](https://tinyml.seas.harvard.edu/), [Ac
 
 📫 You can get more info about me & my work at https://cerkut.github.io/
 
-- ⚡ Fun fact: [*1997* is the year of my first paper on Neural Audio with Artificial Neural Networks](https://www.researchgate.net/publication/2543549_Calibration_Of_Physical_Models_Using_Artificial_Neural_Networks_With_Application_To_Plucked_String_Instruments/citations).
+ 👯 If you are here for cookiecutters / packages for ...
+ - ML Engineering: check https://github.com/fmind/mlops-python-package
+ - AI Engineering: check https://github.com/callmesora/llmops-python-package
+ - Quantum ML Eng: you have to wait a bit. 
 
 - 🌱 I’m currently learning
-  -  [Edge Impulse](https://studio.edgeimpulse.com/),
-  -  [TinyML](https://tinyml.seas.harvard.edu/), and
-  -  A [Quantum Audio Synthesizer](https://q1synth.mothquantum.com) from [Moth Quantum](https://mothquantum.com/).
+- - Qiskit-Ops, starting with how to maintain my < v1 models https://github.com/andrzejwichert/qai_1
+  - [Edge Impulse](https://studio.edgeimpulse.com/) and [TinyML](https://tinyml.seas.harvard.edu/), and
+  - A [Quantum Audio Synthesizer](https://q1synth.mothquantum.com) from [Moth Quantum](https://mothquantum.com/).
 - 😄 Pronouns: He/Him
 <!--
 **cerkut/cerkut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
